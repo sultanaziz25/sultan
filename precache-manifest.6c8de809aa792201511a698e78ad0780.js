@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/sultan/static/css/main.36826dcf.chunk.css"
   },
   {
-    "revision": "17b820b2faefd23e7e50c573f1d32cb2",
+    "revision": "d4092d05e576ad82c8a171c153a07033",
     "url": "/sultan/index.html"
   }
 ];
