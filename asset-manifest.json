@@ -1,14 +1,13 @@
 {
-  "main.css": "/sultan/static/css/main.3f0319c6.chunk.css",
-  "main.js": "/sultan/static/js/main.90aa09ee.chunk.js",
-  "main.js.map": "/sultan/static/js/main.90aa09ee.chunk.js.map",
+  "main.css": "/sultan/static/css/main.36826dcf.chunk.css",
+  "main.js": "/sultan/static/js/main.79bdb035.chunk.js",
+  "main.js.map": "/sultan/static/js/main.79bdb035.chunk.js.map",
   "runtime~main.js": "/sultan/static/js/runtime~main.c7f1aae7.js",
   "runtime~main.js.map": "/sultan/static/js/runtime~main.c7f1aae7.js.map",
-  "static/js/2.5bf9b2cd.chunk.js": "/sultan/static/js/2.5bf9b2cd.chunk.js",
-  "static/js/2.5bf9b2cd.chunk.js.map": "/sultan/static/js/2.5bf9b2cd.chunk.js.map",
+  "static/js/2.c88c70e5.chunk.js": "/sultan/static/js/2.c88c70e5.chunk.js",
+  "static/js/2.c88c70e5.chunk.js.map": "/sultan/static/js/2.c88c70e5.chunk.js.map",
   "index.html": "/sultan/index.html",
-  "precache-manifest.3fa45c4cf327b3516c5063124924e217.js": "/sultan/precache-manifest.3fa45c4cf327b3516c5063124924e217.js",
+  "precache-manifest.8a8bb1873abd161c6bbd547df5f97fd8.js": "/sultan/precache-manifest.8a8bb1873abd161c6bbd547df5f97fd8.js",
   "service-worker.js": "/sultan/service-worker.js",
-  "static/css/main.3f0319c6.chunk.css.map": "/sultan/static/css/main.3f0319c6.chunk.css.map",
-  "static/media/logo.svg": "/sultan/static/media/logo.5d5d9eef.svg"
+  "static/css/main.36826dcf.chunk.css.map": "/sultan/static/css/main.36826dcf.chunk.css.map"
 }
