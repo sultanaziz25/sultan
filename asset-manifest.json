@@ -1,13 +1,16 @@
 {
-  "main.css": "/sultan/static/css/main.36826dcf.chunk.css",
-  "main.js": "/sultan/static/js/main.79bdb035.chunk.js",
-  "main.js.map": "/sultan/static/js/main.79bdb035.chunk.js.map",
+  "main.css": "/sultan/static/css/main.070cb51e.chunk.css",
+  "main.js": "/sultan/static/js/main.63bc279e.chunk.js",
+  "main.js.map": "/sultan/static/js/main.63bc279e.chunk.js.map",
   "runtime~main.js": "/sultan/static/js/runtime~main.c7f1aae7.js",
   "runtime~main.js.map": "/sultan/static/js/runtime~main.c7f1aae7.js.map",
-  "static/js/2.c88c70e5.chunk.js": "/sultan/static/js/2.c88c70e5.chunk.js",
-  "static/js/2.c88c70e5.chunk.js.map": "/sultan/static/js/2.c88c70e5.chunk.js.map",
+  "static/js/2.d48ab884.chunk.js": "/sultan/static/js/2.d48ab884.chunk.js",
+  "static/js/2.d48ab884.chunk.js.map": "/sultan/static/js/2.d48ab884.chunk.js.map",
   "index.html": "/sultan/index.html",
-  "precache-manifest.6c8de809aa792201511a698e78ad0780.js": "/sultan/precache-manifest.6c8de809aa792201511a698e78ad0780.js",
+  "precache-manifest.c89be5f99b50c2c76e40ade511d4a075.js": "/sultan/precache-manifest.c89be5f99b50c2c76e40ade511d4a075.js",
   "service-worker.js": "/sultan/service-worker.js",
-  "static/css/main.36826dcf.chunk.css.map": "/sultan/static/css/main.36826dcf.chunk.css.map"
+  "static/css/main.070cb51e.chunk.css.map": "/sultan/static/css/main.070cb51e.chunk.css.map",
+  "static/media/CV.pdf": "/sultan/static/media/CV.cd837bba.pdf",
+  "static/media/main.scss": "/sultan/static/media/overlay4.6133505e.svg",
+  "static/media/me.png": "/sultan/static/media/me.8879071b.png"
 }
