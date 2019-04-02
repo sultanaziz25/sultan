@@ -1,7 +1,7 @@
-# Resume
+# My Webpage
 
 ##Deploy
-cd resume
+cd portfolio
 
 npm run deploy
 

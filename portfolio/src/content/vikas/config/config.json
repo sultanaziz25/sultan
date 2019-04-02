@@ -1,0 +1,34 @@
+{
+  "siteContent": {
+    "title": "Vikas Patidar, Computer Scientist",
+    "aboutMe": {
+      "p1": "Hi, it's me. I live in New York city and a student of Courant School of Mathematical Sciences New York University.",
+      "p2": "I'm a machine learning enthusiastic."
+    },
+    "banner": {
+      "intro": "I'M PATIDAR",
+      "p1": "I'm a machine learning enthusiastic."
+    },
+    "showResume": true,
+    "showGallery": false,
+    "showMisc": true,
+    "socialMedia": {
+      "mailId": "vikaspatidar859@gmail.com",
+      "twitter": "",
+      "insta": "https://www.instagram.com/",
+      "github": "https://github.com/",
+      "linkedin": "https://www.linkedin.com/in/",
+      "facebook": "https://www.facebook.com"
+    }
+  },
+  "miscTexts": {
+    "intro": {
+      "header": "Misc",
+      "p1": "All the other bits that don't fit so easily into one category or the other."
+    },
+    "location": {
+      "header": "Geolocating Me",
+      "p1": "I arrived in New York from New Delhi, India."
+    }
+  }
+}

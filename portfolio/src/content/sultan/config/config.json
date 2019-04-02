@@ -1,0 +1,34 @@
+{
+  "siteContent": {
+    "title": "Sultan Abdul Aziz Ansari, Human",
+    "aboutMe": {
+      "p1": "Hi, it's me. I live in Noida and working in Adobe Systems, India.",
+      "p2": "I'm travelling enthusiastic."
+    },
+    "banner": {
+      "intro": "I'M SULTAN",
+      "p1": "I'm travelling enthusiastic."
+    },
+    "showResume": true,
+    "showGallery": true,
+    "showMisc": true,
+    "socialMedia": {
+      "mailId": "sultanaziz25@gmail.com",
+      "twitter": "",
+      "insta": "https://www.instagram.com/azizsultan25/",
+      "github": "",
+      "linkedin": "https://www.linkedin.com/in/sultanaziz25",
+      "facebook": ""
+    }
+  },
+  "miscTexts": {
+    "intro": {
+      "header": "Misc",
+      "p1": "All the other bits that don't fit so easily into one category or the other."
+    },
+    "location": {
+      "header": "Geolocating Me",
+      "p1": "I live in Noida, India."
+    }
+  }
+}
