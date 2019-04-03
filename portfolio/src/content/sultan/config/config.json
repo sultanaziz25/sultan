@@ -2,14 +2,14 @@
   "siteContent": {
     "title": "Sultan Abdul Aziz Ansari, Human",
     "aboutMe": {
-      "p1": "Hi, it's me. I live in Noida and working in Adobe Systems, India.",
-      "p2": "I'm travelling enthusiastic."
+      "p1": "Hi, it's me. I stay in Noida and work in Adobe Systems, India.",
+      "p2": "I'm a travel enthusiast and software developer."
     },
     "banner": {
       "intro": "I'M SULTAN",
-      "p1": "I'm travelling enthusiastic."
+      "p1": "I'm a travel enthusiast."
     },
-    "showResume": true,
+    "showResume": false,
     "showGallery": true,
     "showMisc": true,
     "socialMedia": {
